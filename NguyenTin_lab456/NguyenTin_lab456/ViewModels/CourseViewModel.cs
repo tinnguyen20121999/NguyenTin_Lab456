@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Globalization;
 using System.Linq;
 using System.Web;
 
@@ -23,7 +24,11 @@ namespace NguyenTin_lab456.ViewModels
         public IEnumerable<Category> Categories { get; set;}
         public DateTime GetDateTime()
         {
-            return DateTime.Parse(string.Format("{0} {1}", Date, Time));
+            DateTime newDate = DateTime.ParseExact(Date, "dd/MM/yyy", CultureInfo.InvariantCulture); ;
+            string newDate2 = newDate.Year + "-" + newDate.Month + "-" + newDate.Day;
+            string fullDate = newDate2 + "" + Time;
+            var insert = DateTime.ParseExact(fullDate, "yyyy-M-dd hh:mm", CultureInfo.InvariantCulture);
+            return DateTime.Parse(insert.ToString());
         }
     }
 }

@@ -171,3 +171,10 @@ C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_
 C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\obj\Debug\NguyenTin_lab456.dll
 C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\obj\Debug\NguyenTin_lab456.pdb
 C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\obj\Debug\NguyenTin_lab456.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\obj\Debug\NguyenTin_lab456.Migrations.addAttendance.resources
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\bin\System.Web.Http.dll
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\bin\System.Web.Http.xml
+C:\Users\Administrator\Source\Repos\NguyenTin_Lab456\NguyenTin_lab456\NguyenTin_lab456\bin\System.Web.Http.WebHost.xml
